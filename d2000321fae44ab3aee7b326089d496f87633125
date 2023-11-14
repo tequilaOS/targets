@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "771326c2_93b8c0ab",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-11-14T18:03:33Z",
+      "side": 1,
+      "message": "Waiting for dependencies",
+      "revId": "d2000321fae44ab3aee7b326089d496f87633125",
+      "serverId": "6e240c91-23cb-42f0-b60c-7c3c525b6cb9"
+    }
+  ]
+}
